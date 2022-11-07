@@ -1,9 +1,28 @@
+
 .background-col{
   background-color: black;
+  margin: 0px;
+  padding: 0px;
 }
 
 /* footer css */
 .back1{
+  padding-top:50px;
+  background-color: black;
+  height: auto;
   
 
+}
+.text-back{
+  color: white;
+  font-family: Roboto;
+}
+.A{
+  font-size: 18px;
+}
+.B{
+  font-size: 13px;
+}
+.text-col{
+  color: #67CBAB;
 }
