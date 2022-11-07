@@ -26,3 +26,39 @@
 .text-col{
   color: #67CBAB;
 }
+
+/* Ship page */
+.Ship-A{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+}
+.Ship-B{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+
+}
+.Ship-C{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+}
+.Mar-t{
+  margin-top: 40px;
+}
+.Mar-bot{
+  margin-bottom: 30px;
+}
+.kuch{
+  margin-top: 30px;
+  margin-bottom: 45px;
+}
+.My-Page{
+  width: 60%;
+  margin-top: auto;
+  
+}
