@@ -93,4 +93,54 @@ font-weight: 600;
 font-size: 16px;
 line-height: 150%;
 }
+.Ship1-Second-Div{
+  margin-top:30px ;
+}
+.Ship1-Second-Paragraph{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 43px;
+}
+.Ship1-paragraph-New{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+}
+.image-Overflow{
+  width: 100%;
+  overflow: "hidden"
+
+}
+.Ship1-Third-Div{
+  margin-top: 70px;
+  background-color: #F9FAFD;
+}
+.Ship1-under-Third{
+  padding-top: 50px;
+  margin: auto;
+  width: 55%;
+  height: auto;
+}
+.Third-Div-1{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+border-style:none none dashed none;
+padding-bottom: 10px;
+border-color: #677088;
+border-width: 1px;
+}
+.Third-Div-Paragraph{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+}
 
