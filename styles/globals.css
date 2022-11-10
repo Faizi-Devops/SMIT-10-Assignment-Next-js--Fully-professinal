@@ -144,3 +144,42 @@ font-size: 14px;
 line-height: 150%;
 }
 
+/* Hypeindustry Css */
+.Main{
+  background-color: #F9FAFD;
+  padding-top: 50px;
+}
+.Hype-Head{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 48px;
+}
+.remove-border{
+  border: none;
+  outline: none;
+  border-radius: 0px;
+}
+.Button-Group{
+  margin-top: 30px;
+}
+.Hype-Head{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+}
+.Hype-Div-1{
+  margin: auto;
+  width: 43.5%;
+  margin-top: 35px;
+}
+.Hype-Paragraph{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+}
