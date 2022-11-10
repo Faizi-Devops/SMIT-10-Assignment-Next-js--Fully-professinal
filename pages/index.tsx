@@ -3,7 +3,8 @@ import Image from 'next/image'
 import Footer from '../components/Footer/Footer'
 import Navbar from '../components/Navbar/Navbar'
 import styles from '../styles/Home.module.css'
-import Shipping from './Shipping'
+import Shipping1 from './Shipping1'
+
 
 export default function Home() {
   return (
@@ -16,8 +17,10 @@ export default function Home() {
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossOrigin="anonymous"></script>
       </Head>
       <div>
+        <Shipping1 /> 
         
-        <Shipping />
+
+
       </div>
 
       

@@ -62,3 +62,35 @@ font-size: 14px;
   margin-top: auto;
   
 }
+
+/* Ship1-page-All-Over-Page */
+.Ship1-All-Page{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+.Ship1-A{
+  margin-top: 65px;
+}
+.Ship1-Heading{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 43px;
+}
+.Ship1-paragraph{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+}
+.Ship1-Second-Heading{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+}
+
