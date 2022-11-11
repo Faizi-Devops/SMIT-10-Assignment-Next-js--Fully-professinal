@@ -183,3 +183,114 @@ font-weight: 400;
 font-size: 14px;
 line-height: 150%;
 }
+/* HypeConcept CSS */
+.concept-div1{
+  margin-top: 60px;
+}
+.concept-Head1{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 46px;
+color: #FFFFFF;
+background-color: black;
+}
+.concept-para1{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150%;
+color: #677088;
+
+}
+.buyer-responsive{
+  width: 80%;
+}
+.concept-div2{
+  margin-top: 60px;
+}
+.concept-responsive2{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 180px;
+}
+.cocept-oper{
+  margin-top: 20px;
+}
+.concept-div3{
+  margin-top: 60px;
+}
+.concept-Head2{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 120%;
+}
+.concept-responsive3{
+  width: 100%;
+  height: 300px;
+
+}
+.concept-div4{
+  margin-top: 30px;
+}
+.concept-responsive-4{
+  width: 100%;
+  height: 300px;
+}
+.concept-marin1{
+  margin-top: 12px;
+}
+.concept-responsive-5{
+  margin-top: 50px;
+}
+.concept-mid-name{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+color: #677088;
+}
+.concept-responsive4{
+  padding-top: 15px;
+  width: 100%;
+  height: 320px;
+}
+.concept-responsive-6{
+  margin-top: 40px;
+}
+.concept-responsive5{
+  width: 100%;
+  height: 300px;
+}
+.concept-oper-margin{
+  margin-top: 30px;
+}
+.concept-Heading2{
+  margin-top: 38px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+}
+.concept-responsive-7{
+  margin-top: 30px;
+}
+.prop1{
+  font-family: 'Roboto';
+  margin-top: 13px;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 120%;
+}
+
+
+
